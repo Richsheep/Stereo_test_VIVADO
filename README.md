@@ -11,4 +11,6 @@ VIVADO project is too big to upload
 
 I save this project on BaiduNetdisk.
 
-link : http://pan.baidu.com/s/1slufbfn code : il6l
+VIVADO : link : http://pan.baidu.com/s/1slufbfn code : il6l
+
+HLS : link : http://pan.baidu.com/s/1nvuTnIx code : d631
